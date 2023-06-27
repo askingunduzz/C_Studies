@@ -1,0 +1,1 @@
+Welcome to my C repository! Within this repository, you will discover a compilation of my exercises in the C programming language. Feel free to explore the code and gain insights into my journey with C programming.
